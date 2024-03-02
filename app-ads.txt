@@ -34,7 +34,10 @@ risecodes.com,63832beef8189a00015cb6d3,RESELLER
 visiblemeasures.com,1052,RESELLER
 EMXDGT.com,2009,RESELLER,1e1d41537f7cad7f
 undertone.com,4205,RESELLER,d954590d0cb265b9
-Admedia.com,AM1601,RESELLER
+imds.tv,AM1601,RESELLER,ae6c32151e71f19d
+sovrn.com,375328,RESELLER,fafdf38b16bf6b2b
+lijit.com,375328,RESELLER,fafdf38b16bf6b2b
+vidazoo.com,65944e18d9fa964be88374b8,RESELLER,b6ada874b4d7d0b2
 
 inmobi.com, 37dfe4382b2d4a62bd4e3a03af6ef8ce, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
